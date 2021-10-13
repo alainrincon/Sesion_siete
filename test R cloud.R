@@ -10,3 +10,8 @@ install.packages("gitcreds")
 library(gitcreds)
 
 gitcreds_get()
+
+# Nueva línea
+
+a <- 10
+b <- 20
